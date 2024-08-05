@@ -12,4 +12,4 @@ For i = 0, n = 2:
 For i = 1, n = 7
 - Calculate dif = 9 - 7 = 2
 - Check if 2 in hashMap (YES, it is at index '0')
-- Retrun [hashMap[2, i] which is [0, 1]]
+- Return [hashMap[2, i] which is [0, 1]]

@@ -8,7 +8,7 @@ class Solution:
             hashSet.add(n)
         return False
 
-
+# 1
 """
 nums = [1, 2, 3, 1]
 hashSet = set() # 1, 2, 

@@ -9,7 +9,7 @@ class Solution:
                 return [hashMap[dif],i]
             hashMap[n] = i
         return []
-
+#1
 # nums = [2,7,11,15]
 # target = 9
 
