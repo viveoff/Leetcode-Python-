@@ -13,4 +13,3 @@ class Solution:
             r += 1
         return maxP
 
-#1
